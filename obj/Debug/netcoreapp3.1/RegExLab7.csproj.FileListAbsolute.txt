@@ -1,0 +1,13 @@
+C:\Users\jahhh\GrandCircus\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.exe
+C:\Users\jahhh\GrandCircus\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.deps.json
+C:\Users\jahhh\GrandCircus\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.runtimeconfig.json
+C:\Users\jahhh\GrandCircus\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.runtimeconfig.dev.json
+C:\Users\jahhh\GrandCircus\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.dll
+C:\Users\jahhh\GrandCircus\RegExLab7\bin\Debug\netcoreapp3.1\RegExLab7.pdb
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.csprojAssemblyReference.cache
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.AssemblyInfoInputs.cache
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.AssemblyInfo.cs
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.csproj.CoreCompileInputs.cache
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.dll
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.pdb
+C:\Users\jahhh\GrandCircus\RegExLab7\obj\Debug\netcoreapp3.1\RegExLab7.genruntimeconfig.cache
